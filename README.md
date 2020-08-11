@@ -1,1 +1,1 @@
-# Data-Mining-Test-Algorithms
+# Data Mining Test Algorithms
